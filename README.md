@@ -14,8 +14,9 @@ I formulate and create fragrances from scratch. From raw material selection, to 
 - 🎵 [TikTok](https://tiktok.com/@jinlee.perfumery)
 - 🌐 [Instagram](https://www.instagram.com/jinlee.perfumery) 
 - 📧 jlperfumer@gmail.com
+<img width="645" height="231" alt="Open TikTok For You feed" src="https://github.com/user-attachments/assets/c786e122-02cf-4a84-8591-5de10b71d017" />
 
 ## 📣 The Brand 
-[REN Perfumes] is a brand focused on exploring human connection through perfume. Currently developing the first 2 scents 
+REN Perfumes is a brand focused on exploring human connection through perfume. Currently developing the first 2 scents 
 - <img width="1350" height="900" alt="JFSample (21 of 2)" src="https://github.com/user-attachments/assets/b104d9d8-1dc7-4469-aa1f-2876d33e6ecc" />
 
